@@ -15,6 +15,6 @@ Should be an API that allows the upload file, process and create information
 ### Proxy API
 This API will be accessible to the user, will be the one that interacts with BackendAPI
 
-The idea is to use Mule as proxy API to simplify the data upload using theris connection and also transformation
-Backend API will be spring FW with Apache Spark to perform data operations
-UI will be react
+- The idea is to use Mule as proxy API to simplify the data upload using theris connection and also transformation
+- Backend API will be spring FW with Apache Spark to perform data operations
+- UI will be react
