@@ -4,7 +4,7 @@
 
 The intention of this software is allow common user to manipulate easily complex data manipulation
 
-It splited in tree main artifacts
+It's split in tree main artifacts
 
 ### UI
 Should be an intuitive UI application to allow users to upload theri data and allow them to easyliy manipulate them
